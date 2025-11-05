@@ -1,2 +1,2 @@
-# Practica_Modelos_Clasificaci-n
+# Practica Modelos Clasificación
 Este repositorio tiene como objetivo practicar diferentes técnicas de clasificación Arboles de decisión, ramdon forest, XGBoost,  LightGBM
